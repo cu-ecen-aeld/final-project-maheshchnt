@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_AESD_PROJECT
+	bool "aesd-project"
+	help
+	  Includes the client application code that can be used for security alert applications. 
